@@ -15,4 +15,10 @@ body {
   background-position: bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2 {
+  font-family: 'Allerta';
 }

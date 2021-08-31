@@ -32,3 +32,42 @@ header h1 {
   color: #ddd7cc;
   text-align: center;
 }
+
+main {
+  background-color: rgba(221, 215, 204, 0.15);
+  padding: 30px 0;
+}
+
+main p {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 30px;
+  font-size: 18px;
+  line-height: 1.4;
+  background-color: #ddd7cc;
+}
+
+iframe {
+  display: block;
+  width: 100%;
+  max-width: 1280px;
+  margin: 30px auto;
+}
+
+main h2 {
+  width: fit-content;
+  padding: 10px 20px;
+  margin: 0 auto 10px;
+  background-color: #232115;
+  color: #ddd7cc;
+  text-align: center;
+}
+
+main ul {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 50px;
+  font-size: 18px;
+  line-height: 1.4;
+  background-color: #ddd7cc;
+}

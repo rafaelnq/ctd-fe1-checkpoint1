@@ -8,7 +8,7 @@ O objetivo é criar um site que vai falar da sua cidade. Para isso, utilize de t
 
 - [x] Selecione uma imagem de background da sua cidade e coloque como imagem de fundo do seu body.
 - [x] Escolha ao menos duas fontes para serem utilizadas no seu site. Use o Google Fonts.
-- [ ] Faça um Header bem bacana com uma cor da sua escolha. Esse header precisa ter de 10 a 20 píxels de padding vertical. Dentro dele estará um título com o nome da sua cidade!
+- [x] Faça um Header bem bacana com uma cor da sua escolha. Esse header precisa ter de 10 a 20 píxels de padding vertical. Dentro dele estará um título com o nome da sua cidade!
 - [ ] No seu main, coloque um pequeno parágrafo falando da sua cidade. Destaque em negrito os pontos mais importantes.
 - [ ] Insira um video do youtube que fala da sua cidade. Pode ser algum festival ou comemoração. Dê uma altura e largura de 1280x720 ao seu vídeo.
 - [ ] Abaixo do vídeo escreva o título: “Curiosidades” e logo abaixo faça uma pequena lista com algumas curiosidades da sua cidade.

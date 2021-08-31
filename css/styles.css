@@ -22,3 +22,13 @@ h1,
 h2 {
   font-family: 'Allerta';
 }
+
+header {
+  background-color: #232115;
+  padding: 20px 0;
+}
+
+header h1 {
+  color: #ddd7cc;
+  text-align: center;
+}

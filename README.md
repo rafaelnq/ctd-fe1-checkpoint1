@@ -12,4 +12,4 @@ O objetivo é criar um site que vai falar da sua cidade. Para isso, utilize de t
 - [x] No seu main, coloque um pequeno parágrafo falando da sua cidade. Destaque em negrito os pontos mais importantes.
 - [x] Insira um video do youtube que fala da sua cidade. Pode ser algum festival ou comemoração. Dê uma altura e largura de 1280x720 ao seu vídeo.
 - [x] Abaixo do vídeo escreva o título: “Curiosidades” e logo abaixo faça uma pequena lista com algumas curiosidades da sua cidade.
-- [ ] Utilize algum site de ícones para conseguir uma imagem do instagram e outra do youtube. Nesses ícones, faça o link com os canais oficiais da sua cidade, se não houver, coloque links do seu gosto.
+- [x] Utilize algum site de ícones para conseguir uma imagem do instagram e outra do youtube. Nesses ícones, faça o link com os canais oficiais da sua cidade, se não houver, coloque links do seu gosto.
